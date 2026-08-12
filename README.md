@@ -107,7 +107,7 @@ Die Screenshots werden im Ordner [images](images/) gespeichert.
 
 Beispiel für die Einbindung in die README:
 
-![IIS Server 1](images/iis_server1.png)
+![IIS Server 1] ![image alt](https://github.com/uv-code/NLB-Projekt/blob/f57ba815063b966b7b1f9bf9f1536598e94e2e71/NLB-Projekt/images/iis_server2.png)
 
 ![NLB Manager](images/nlb_manager.png)
 
