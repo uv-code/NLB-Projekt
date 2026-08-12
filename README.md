@@ -19,7 +19,7 @@ Der Aufbau einer hochverfügbaren Webserver-Infrastruktur mit Windows Server 202
 
 ---
 
-[image](NLB-Projekt/docs/nlb_network_diagram.png)
+[image alt](NLB-Projekt/docs/nlb_network_diagram.png)
 
 ---
 ---
