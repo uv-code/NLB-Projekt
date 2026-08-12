@@ -20,7 +20,7 @@ Der Aufbau einer hochverfügbaren Webserver-Infrastruktur mit Windows Server 202
 ---
 > Diagramm im Ordner `docs/` speichern und anschließend hier einbinden.
 
-![image alt] (NLB-Projekt/docs/nlb_network_diagram.png)
+![image alt](NLB-Projekt/docs/nlb_network_diagram.png)
 
 ---
 ---
